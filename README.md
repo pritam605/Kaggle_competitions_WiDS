@@ -1,2 +1,1 @@
-# wids_assignment
-This contains the code solution as per data science competition hosted in Kaggle. 
+This contains the code solution as per data science competition names 'WIDS' hosted in Kaggle. 
